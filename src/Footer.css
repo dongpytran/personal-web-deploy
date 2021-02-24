@@ -1,0 +1,9 @@
+.footer{
+    width: 100%;
+    text-align: center;
+    border-top: solid 1px #d3d3d3;
+}
+.footer p{
+    font-size: 0.89rem;
+    letter-spacing: 2px;
+}
