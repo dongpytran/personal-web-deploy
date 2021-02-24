@@ -1,6 +1,5 @@
 import React from 'react'
 import "./About.css"
-import avatar from './avatar.png'
 import HeadingContent from './HeadingContent'
 import Cv from './My-CV.pdf';
 import GetAppIcon from '@material-ui/icons/GetApp';
@@ -9,6 +8,7 @@ import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import PublicIcon from '@material-ui/icons/Public';
 function About() {
+    const avatar = const avatar = "https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/104987441_1220902914909250_2174423459197449014_o.jpg?_nc_cat=107&ccb=3&_nc_sid=09cbfe&_nc_ohc=R-vcSzW6Q60AX-eUJN0&_nc_ht=scontent.fvca1-2.fna&oh=63695353e2675b4e3ec00d85eb02182c&oe=605AEF78";
     return (
         <div id="about">
             <HeadingContent title="ABOUT ME" />
