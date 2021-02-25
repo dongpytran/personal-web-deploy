@@ -1,0 +1,27 @@
+.headingContent{
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    box-shadow: 0 3px 3px 0 rgb(1 2 2 / 5%);
+    color: #a8aab3;
+    letter-spacing: 3px;
+    font-size: 13px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 80px;
+}
+@media screen and (max-width: 900px){
+    .headingContent{
+        height: 50px;
+        line-height: 50px;
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 500px){
+    .headingContent{
+        height: 40px;
+        line-height: 40px;
+        font-size: 9px;
+    }
+}
