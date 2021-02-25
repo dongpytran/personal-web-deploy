@@ -65,17 +65,20 @@
     }
 }
 @media screen and (max-width: 500px){
+    .education__container{
+        width: 95%;
+    }
     .circle__container{
         left: 29%;
     }
 }
 @media screen and (max-width: 420px){
     .circle__container{
-        left: 25%;
+        left: 27%;
     }
 }
 @media screen and (max-width: 400px){
     .circle__container{
-        left: 22%;
+        left: 25.5%;
     }
 }
