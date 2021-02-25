@@ -2,6 +2,7 @@ import React from 'react'
 import "./About.css"
 import HeadingContent from './HeadingContent'
 import Cv from './My-CV.pdf';
+import CvE from './MY_CV_ENG.pdf';
 import GetAppIcon from '@material-ui/icons/GetApp';
 import RoomIcon from '@material-ui/icons/Room';
 import PhoneIcon from '@material-ui/icons/Phone';
@@ -28,6 +29,10 @@ function About() {
                     <div className="about__summary--btn">
                         <div className="download__icon"><GetAppIcon/></div>
                         <a href={Cv} download> MY CV (Vietnamese)</a>
+                    </div>
+                    <div className="about__summary--btn">
+                        <div className="download__icon"><GetAppIcon/></div>
+                        <a href={CvE} download> MY CV (English)</a>
                     </div>
                 </div>
                 <div className="about__contact">
