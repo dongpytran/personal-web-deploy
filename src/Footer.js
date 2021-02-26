@@ -1,5 +1,6 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./Footer.css"
+import countapi from 'countapi-js'
 function Footer() {
     const date = new Date();
     const year = date.getFullYear();
