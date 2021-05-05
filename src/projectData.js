@@ -1,6 +1,16 @@
 const data = [
     {
         id: 1,
+        name: "Distributed Book Store M",
+        image: "https://www.timeanddate.com/scripts/weather_og.php?h1=Weather&h2=Local%20Weather%20Around%20the%20World",
+        date: "05/2021",
+        link:{
+            url: "https://github.com/dongpytran/Distributed-Book-Store",
+            text: "View"
+        }
+    },
+    {
+        id: 2,
         name: "Weather App",
         image: "https://www.timeanddate.com/scripts/weather_og.php?h1=Weather&h2=Local%20Weather%20Around%20the%20World",
         date: "03/2021",
@@ -10,7 +20,7 @@ const data = [
         }
     },
     {
-        id: 2,
+        id: 3,
         name: "Facebook Clone",
         image: "https://raw.githubusercontent.com/dongpytran/fb-clone/master/scshot/2.png",
         date: "01/2021 - 02/2021",
@@ -20,7 +30,7 @@ const data = [
         }
     },
     {
-        id: 3,
+        id: 4,
         name: "Bedding website",
         image: "https://raw.githubusercontent.com/dongpytran/Bedding-Web-ASP-MVC/master/screensh/1.png",
         date: "10/2020 - 12/2020",
@@ -30,7 +40,7 @@ const data = [
         }
     },
     {
-        id: 4,
+        id: 5,
         name: "Majors Consultant website",
         image: "https://raw.githubusercontent.com/dongpytran/Students-Data-Mining/main/screensh/1.png",
         date: "10/2020 - 12/2020",
@@ -40,7 +50,7 @@ const data = [
         }
     },
     {
-        id: 5,
+        id: 6,
         name: "Library Management App",
         image: "https://raw.githubusercontent.com/dongpytran/Java-Oracle-Library-Management/master/screensh/3.png",
         date: "06/2020 - 08/2020",
@@ -50,7 +60,7 @@ const data = [
         }
     },
     {
-        id: 6,
+        id: 7,
         name: "Sports store website",
         image: "https://raw.githubusercontent.com/dongpytran/SportWebsite/master/scsh/1.png",
         date: "06/2020 - 08/2020",
@@ -60,7 +70,7 @@ const data = [
         }
     },
     {
-        id: 7,
+        id: 8,
         name: "Parallel sorting using thread",
         image: "https://raw.githubusercontent.com/dongpytran/Thread-Sort-Java-Parallel/main/screensh/1.png",
         date: "06/2020 - 08/2020",
