@@ -9,7 +9,7 @@ import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import PublicIcon from '@material-ui/icons/Public';
 function About() {
-    const avatar = "https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/104987441_1220902914909250_2174423459197449014_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jCh2hhV7xS8AX8H4L3k&_nc_ht=scontent.fdad2-1.fna&oh=6c494099228e93fd06aedaf79613d798&oe=60827C78";
+    const avatar = "https://avatars.githubusercontent.com/u/67514451?v=4";
     return (
         <div id="about">
             <HeadingContent title="ABOUT ME" />
