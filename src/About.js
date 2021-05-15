@@ -2,7 +2,7 @@ import React from 'react'
 import "./About.css"
 import HeadingContent from './HeadingContent'
 import Cv from './cv_vie.pdf';
-import CvE from './MY_CV_ENG.pdf';
+
 import GetAppIcon from '@material-ui/icons/GetApp';
 import RoomIcon from '@material-ui/icons/Room';
 import PhoneIcon from '@material-ui/icons/Phone';
