@@ -1,11 +1,21 @@
 const data = [
     {
-        id: 1,
-        name: "Distributed Book Store M",
-        image: "https://www.timeanddate.com/scripts/weather_og.php?h1=Weather&h2=Local%20Weather%20Around%20the%20World",
+        id: 0,
+        name: "Book Store DB Distributed",
+        image: "https://media.makeameme.org/created/distributed.jpg",
         date: "05/2021",
         link:{
             url: "https://github.com/dongpytran/Distributed-Book-Store",
+            text: "View"
+        }
+    },
+    {
+        id: 1,
+        name: "Pet Care Data Warehouse",
+        image: "https://raw.githubusercontent.com/dongpytran/Petcare_Datawarehouse_OLAP/main/scsh/3.PNG",
+        date: "05/2021",
+        link:{
+            url: "https://github.com/dongpytran/Petcare_Datawarehouse_OLAP",
             text: "View"
         }
     },
