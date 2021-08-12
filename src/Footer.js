@@ -14,8 +14,7 @@ function Footer() {
     return (
         <div className="footer">
             <p>Copyright &copy; {year} </p>
-            <p>Developed by TranDongPy</p>
-            <p>All rights reserved</p>
+            <p>TranDongPy</p>
             <p id="count" style={{color:"red"}}></p><span>visited</span>
         </div>
     )
